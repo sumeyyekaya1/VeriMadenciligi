@@ -1,0 +1,10 @@
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\bin\Debug\Birliktelik_Odev.exe.config
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\bin\Debug\Birliktelik_Odev.exe
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\bin\Debug\Birliktelik_Odev.pdb
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.csproj.AssemblyReference.cache
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.Form1.resources
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.Properties.Resources.resources
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.csproj.GenerateResource.cache
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.csproj.CoreCompileInputs.cache
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.exe
+D:\VERİ MADENCİLİĞİ\Birliktelik_Odev\Birliktelik_Odev\Birliktelik_Odev\obj\Debug\Birliktelik_Odev.pdb
